@@ -1,0 +1,26 @@
+.puppyImage{
+    height:auto;
+    width: 50%;
+}
+.p-2{
+    flex: 1;
+    
+}
+.footer{
+    flex-direction: row;
+}
+ .card{
+    margin-top: 5px;
+ }
+ .alert{
+    justify-content: center;
+ }
+ .progressTop{
+    justify-content:flex-end;
+ }
+ .puppyImageAdmin{
+    width: 50%;
+ }
+/* .h4bar1{
+    margin-top: 50px;
+} */
